@@ -41,5 +41,9 @@ include './style.html';
             echo "<a href='signup.php'>Sign Up</a>";
         }
         ?>
+        <br><br><br>
+        <!--<form method="POST">-->
+            <!--<input type="submit" name="action" value="add">-->
+        <!--</form>-->
     </body>
 </html>

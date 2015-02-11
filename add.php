@@ -19,6 +19,5 @@
             <br>
             <input type='submit' name='action' value='add'>
         </form>
-        <a href="index.php">Back</a>
     </body>
 </html>
